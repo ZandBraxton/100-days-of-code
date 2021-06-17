@@ -20,3 +20,9 @@
 
 **Thoughts:** Since I've done CS50 before I had experience with CSS, but I was still able to learn new things and found the tutorials to be quite informative. 
 
+
+### Day 3: June 17, 2021
+
+**Today's Progress**: Continued freecodecamps lessons. Finished applied visual design lessons, applied accessibility, and responsive web design principles.
+
+**Thoughts:** Most of the features I learned today with CSS were completely new to me, and greatly opened my eyes on how in depth the style can be. The accessbility knowledge was cool as well, as it was something I had never put much thought into before.
