@@ -26,3 +26,10 @@
 **Today's Progress**: Continued freecodecamps lessons. Finished applied visual design lessons, applied accessibility, and responsive web design principles.
 
 **Thoughts:** Most of the features I learned today with CSS were completely new to me, and greatly opened my eyes on how in depth the style can be. The accessbility knowledge was cool as well, as it was something I had never put much thought into before.
+
+
+### Day 4: June 18, 2021
+
+**Today's Progress**: Finished the flexbox and grid lessons in freecodecamp, now I have to make five different web pages.
+
+**Thoughts:** Throughly enjoyed the lessons as I had messed with these concepts back in CS50, but never had a proper understanding for how they worked. Now ready to start on the webpages.
