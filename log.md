@@ -33,3 +33,10 @@
 **Today's Progress**: Finished the flexbox and grid lessons in freecodecamp, now I have to make five different web pages.
 
 **Thoughts:** Throughly enjoyed the lessons as I had messed with these concepts back in CS50, but never had a proper understanding for how they worked. Now ready to start on the webpages.
+
+
+### Day 5: June 19, 2021
+
+**Today's Progress**: Started on the tribute page, finished up 8/10 user stories. Used and learned a lot about CSS and some html.
+
+**Thoughts:** Making good progress and can feel myself retaining what I'm learning, the webpage will be simple but I'm feeling good about what I've made so far.
