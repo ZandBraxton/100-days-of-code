@@ -40,3 +40,9 @@
 **Today's Progress**: Started on the tribute page, finished up 8/10 user stories. Used and learned a lot about CSS and some html.
 
 **Thoughts:** Making good progress and can feel myself retaining what I'm learning, the webpage will be simple but I'm feeling good about what I've made so far.
+
+### Day 6: June 20, 2021
+
+**Today's Progress**: Spent hours messing around with CSS, didn't make much progress on the site at all.
+
+**Thoughts:** Struggled to comprehend many aspects of CSS, saddened by how much time I spent on it but hopefully next time will be better.
