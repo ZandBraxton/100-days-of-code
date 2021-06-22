@@ -41,14 +41,23 @@
 
 **Thoughts:** Making good progress and can feel myself retaining what I'm learning, the webpage will be simple but I'm feeling good about what I've made so far.
 
+
 ### Day 6: June 20, 2021
 
 **Today's Progress**: Spent hours messing around with CSS, didn't make much progress on the site at all.
 
 **Thoughts:** Struggled to comprehend many aspects of CSS, saddened by how much time I spent on it but hopefully next time will be better.
 
+
 ### Day 7: June 21, 2021
 
 **Today's Progress**: Finished the tribute webpage with all tests passing.
 
 **Thoughts:** Compared to yesterday, today's progress was efficient and I finished the page with ease. It's simplistic, but I'm happy with it.
+
+
+### Day 8: June 22, 2021
+
+**Today's Progress**: Created and finished the survey webpage.
+
+**Thoughts:** Functionality was easy and I found myself finishing it within the hour. The CSS is still difficult for me to I found myself mostly copying FCC's example. However, I learned a lot more about CSS by doing so.
