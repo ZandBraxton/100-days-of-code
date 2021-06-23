@@ -32,7 +32,7 @@
 
 **Today's Progress**: Finished the flexbox and grid lessons in freecodecamp, now I have to make five different web pages.
 
-**Thoughts:** Throughly enjoyed the lessons as I had messed with these concepts back in CS50, but never had a proper understanding for how they worked. Now ready to start on the webpages.
+**Thoughts:** Thoroughly enjoyed the lessons as I had messed with these concepts back in CS50, but never had a proper understanding for how they worked. Now ready to start on the webpages.
 
 
 ### Day 5: June 19, 2021
@@ -61,3 +61,10 @@
 **Today's Progress**: Created and finished the survey webpage.
 
 **Thoughts:** Functionality was easy and I found myself finishing it within the hour. The CSS is still difficult for me to I found myself mostly copying FCC's example. However, I learned a lot more about CSS by doing so.
+
+
+### Day 9: June 23, 2021
+
+**Today's Progress**: Created the product landing webpage.
+
+**Thoughts:** Was a busier today so didn't have as much time. Manged to create the navbar easily with functionality. CSS is coming more naturally to me now and I find myself grasping more concepts more easily.
