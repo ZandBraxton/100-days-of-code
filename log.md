@@ -68,3 +68,10 @@
 **Today's Progress**: Created the product landing webpage.
 
 **Thoughts:** Was a busier today so didn't have as much time. Manged to create the navbar easily with functionality. CSS is coming more naturally to me now and I find myself grasping more concepts more easily.
+
+
+### Day 10: June 24, 2021
+
+**Today's Progress**: Created the email submission and aligned the layout with flex, played around with more css functions. Also applied fixed position to navbar.
+
+**Thoughts:** Only an hour today but didn't struggle as much as I thought I would. Css is slowly becoming easier and more intuitive the more I use it. Still need to mess with grid further as well.
