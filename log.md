@@ -75,3 +75,10 @@
 **Today's Progress**: Created the email submission and aligned the layout with flex, played around with more css functions. Also applied fixed position to navbar.
 
 **Thoughts:** Only an hour today but didn't struggle as much as I thought I would. Css is slowly becoming easier and more intuitive the more I use it. Still need to mess with grid further as well.
+
+
+### Day 11: June 25, 2021
+
+**Today's Progress**: Finished the landing site, then started on the tech documentation site. 
+
+**Thoughts:** Landing site didn't really teach me anything new but helped my muscle memory, tech site should be fairly simple
