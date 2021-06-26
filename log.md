@@ -82,3 +82,10 @@
 **Today's Progress**: Finished the landing site, then started on the tech documentation site. 
 
 **Thoughts:** Landing site didn't really teach me anything new but helped my muscle memory, tech site should be fairly simple
+
+
+### Day 12: June 26, 2021
+
+**Today's Progress**: Finished the tech doc site.
+
+**Thoughts:** In terms of the subject, I merely copied the example. However, all the code I wrote myself. Learned more about media queries today, as well as how to make better navbars.
