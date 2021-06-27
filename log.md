@@ -89,3 +89,10 @@
 **Today's Progress**: Finished the tech doc site.
 
 **Thoughts:** In terms of the subject, I merely copied the example. However, all the code I wrote myself. Learned more about media queries today, as well as how to make better navbars.
+
+
+### Day 13: June 27, 2021
+
+**Today's Progress**: Started the portfolio site.
+
+**Thoughts:** Getting much more comfortable with CSS and HTML by this point, finding myself needing to google less and can create and manipulate what I want mostly from memory. Overall happy!
