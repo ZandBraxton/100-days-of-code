@@ -96,3 +96,10 @@
 **Today's Progress**: Started the portfolio site.
 
 **Thoughts:** Getting much more comfortable with CSS and HTML by this point, finding myself needing to google less and can create and manipulate what I want mostly from memory. Overall happy!
+
+
+### Day 14: June 28, 2021
+
+**Today's Progress**: Finished the portfolio site
+
+**Thoughts:** In terms of the site layout I feel I did a fine job, however I couldn't figure out how to design it for mobile. I played around with media queries but it's still really confusing. In the future I'll consider designing sites for mobile as the priority.
