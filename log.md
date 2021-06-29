@@ -103,3 +103,10 @@
 **Today's Progress**: Finished the portfolio site
 
 **Thoughts:** In terms of the site layout I feel I did a fine job, however I couldn't figure out how to design it for mobile. I played around with media queries but it's still really confusing. In the future I'll consider designing sites for mobile as the priority.
+
+
+### Day 15: June 29, 2021
+
+**Today's Progress**: Started google homepage
+
+**Thoughts:** Have to recreat google homepage. Learned about google free fonts and icons, created a pretty good search bar as well. Feeling more confidant with CSS and html.
