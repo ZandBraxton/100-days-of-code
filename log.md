@@ -110,3 +110,10 @@
 **Today's Progress**: Started google homepage
 
 **Thoughts:** Have to recreat google homepage. Learned about google free fonts and icons, created a pretty good search bar as well. Feeling more confidant with CSS and html.
+
+
+### Day 16: June 30, 2021
+
+**Today's Progress**: Finished google homepage
+
+**Thoughts:** It's nearly identical to the original homepage! I can tell that I've improved a lot.
