@@ -117,3 +117,10 @@
 **Today's Progress**: Finished google homepage
 
 **Thoughts:** It's nearly identical to the original homepage! I can tell that I've improved a lot.
+
+
+### Day 17: July 1, 2021
+
+**Today's Progress**: Worked on JS fundamentals in TOP
+
+**Thoughts:** Learned about declaring variables, delcarations to avoid, numbers and arithmatic, precedence in operators, unary and binary, pre-fixing and post-fixing. As well as a few other minor things.
