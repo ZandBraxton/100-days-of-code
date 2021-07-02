@@ -124,3 +124,10 @@
 **Today's Progress**: Worked on JS fundamentals in TOP
 
 **Thoughts:** Learned about declaring variables, delcarations to avoid, numbers and arithmatic, precedence in operators, unary and binary, pre-fixing and post-fixing. As well as a few other minor things.
+
+
+### Day 18: July 2, 2021
+
+**Today's Progress**: Learned more JS fundamentals, such as syntax, common datatypes, boolean and condition stuff
+
+**Thoughts:** Nothing too crazy, just absorbing the new syntax
