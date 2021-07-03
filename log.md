@@ -131,3 +131,10 @@
 **Today's Progress**: Learned more JS fundamentals, such as syntax, common datatypes, boolean and condition stuff
 
 **Thoughts:** Nothing too crazy, just absorbing the new syntax
+
+
+### Day 19: July 3, 2021
+
+**Today's Progress**: Continued JS fundamentals. Polished my knowledge on datatpes, conditions, switchs, did some js exercises.
+
+**Thoughts:** Getting more comrortable with the syntax now
