@@ -138,3 +138,10 @@
 **Today's Progress**: Continued JS fundamentals. Polished my knowledge on datatpes, conditions, switchs, did some js exercises.
 
 **Thoughts:** Getting more comrortable with the syntax now
+
+
+### Day 20: July 4, 2021
+
+**Today's Progress**: Worked on JS functions.
+
+**Thoughts:** It was good to brush up on them since it's been a while since I used them in CS50, learned the difference between func delcarations and func expressions. As well as arrow functions
