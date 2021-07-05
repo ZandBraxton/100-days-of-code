@@ -145,3 +145,10 @@
 **Today's Progress**: Worked on JS functions.
 
 **Thoughts:** It was good to brush up on them since it's been a while since I used them in CS50, learned the difference between func delcarations and func expressions. As well as arrow functions
+
+
+### Day 21: July 5, 2021
+
+**Today's Progress**: Worked on problem solving skills
+
+**Thoughts:** Watched an hour lecture on how to think like a programmer, which really focused on the right steps and mindset to have. I feel like this is a part of me I have neglected and am going to work hard to change it and improve my mindset.
