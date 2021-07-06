@@ -151,4 +151,11 @@
 
 **Today's Progress**: Worked on problem solving skills
 
-**Thoughts:** Watched an hour lecture on how to think like a programmer, which really focused on the right steps and mindset to have. I feel like this is a part of me I have neglected and am going to work hard to change it and improve my mindset.
+**Thoughts:** Watched an hour lecture on how to think like a programmer, which really focused on the right steps and mindset to have. I feel like this is a part of me I have neglected and am going to work hard to change it and improve my mindset
+
+
+### Day 22: July 6, 2021
+
+**Today's Progress**: Created Rock, Paper, Scissors
+
+**Thoughts:** Created a JS program that replicates an RPS game. I utilized functions almost entirely, switch statements, while loops, and more. Comparatively to weeks ago, it all came relatively easy and I feel proud of my growth
