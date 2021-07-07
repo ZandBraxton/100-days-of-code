@@ -159,3 +159,10 @@
 **Today's Progress**: Created Rock, Paper, Scissors
 
 **Thoughts:** Created a JS program that replicates an RPS game. I utilized functions almost entirely, switch statements, while loops, and more. Comparatively to weeks ago, it all came relatively easy and I feel proud of my growth
+
+
+### Day 23: July 7, 2021
+
+**Today's Progress**: Learned about arrays
+
+**Thoughts:** Very short day, had lots of trouble focusing. Just going to take it easy.
