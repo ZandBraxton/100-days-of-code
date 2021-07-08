@@ -166,3 +166,10 @@
 **Today's Progress**: Learned about arrays
 
 **Thoughts:** Very short day, had lots of trouble focusing. Just going to take it easy.
+
+
+### Day 24: July 8, 2021
+
+**Today's Progress**: Learned more about JS loops.
+
+**Thoughts:** Not that different from loops in other languages, althought a refresher was nice
