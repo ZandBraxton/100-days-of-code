@@ -173,3 +173,10 @@
 **Today's Progress**: Learned more about JS loops.
 
 **Thoughts:** Not that different from loops in other languages, althought a refresher was nice
+
+
+### Day 25: July 8, 2021
+
+**Today's Progress**: Went through various JS exercises
+
+**Thoughts:** Still running through fundamentals on TOP, did various JS exercises such as temp conversion, sumall, removeFromArray, repeatString, leapYear, and a couple more. Not too challenging, the syntax is starting to really stick
