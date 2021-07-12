@@ -182,9 +182,15 @@
 **Thoughts:** Still running through fundamentals on TOP, did various JS exercises such as temp conversion, sumall, removeFromArray, repeatString, leapYear, and a couple more. Not too challenging, the syntax is starting to really stick
 
 
-
 ### Day 26: July 11, 2021
 
 **Today's Progress**: Learned about DOM and became more familar with it
 
 **Thoughts:** Learned a bit on the JS syntax. Next projects focus on recreating a drum-kit and also adding a UI to my rock, paper, scissors game
+
+
+### Day 27: July 12, 2021
+
+**Today's Progress**: Worked on and finished the drum kit
+
+**Thoughts:** I feel like I had the right ideas, but was unable to complete the project on my own due to lack of syntax and general knowledge of DOM. In particlar, query selectors and keycodes were confusing before watching the tutorial.
