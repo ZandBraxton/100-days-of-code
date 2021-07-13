@@ -194,3 +194,10 @@
 **Today's Progress**: Worked on and finished the drum kit
 
 **Thoughts:** I feel like I had the right ideas, but was unable to complete the project on my own due to lack of syntax and general knowledge of DOM. In particlar, query selectors and keycodes were confusing before watching the tutorial.
+
+
+### Day 28: July 13, 2021
+
+**Today's Progress**: Worked on the RPS project
+
+**Thoughts:** Got stumped for a while because I accidentally called my script file twice, thus redeclaring everything and giving me errors. Then got stumped on how to update the score in real time, decided to make it a function and just recall it each time the score updated. Overall not too bad.
