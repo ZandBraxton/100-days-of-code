@@ -201,3 +201,10 @@
 **Today's Progress**: Worked on the RPS project
 
 **Thoughts:** Got stumped for a while because I accidentally called my script file twice, thus redeclaring everything and giving me errors. Then got stumped on how to update the score in real time, decided to make it a function and just recall it each time the score updated. Overall not too bad.
+
+
+### Day 29: July 15, 2021
+
+**Today's Progress**: Finished the RPS project
+
+**Thoughts:** I thought that I did everything right, but when I tested "playing again", the game broke. I got stuck for a while but after trial and error I understood my mistakes, such as calling a function more than I should have and ways to simplify things with more functions. 
