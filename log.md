@@ -208,3 +208,11 @@
 **Today's Progress**: Finished the RPS project
 
 **Thoughts:** I thought that I did everything right, but when I tested "playing again", the game broke. I got stuck for a while but after trial and error I understood my mistakes, such as calling a function more than I should have and ways to simplify things with more functions. 
+
+
+
+### Day 30: July 16, 2021
+
+**Today's Progress**: Started the Etch-a-sketch project
+
+**Thoughts:** Worked more with grid which was cool, understanding how it works a lot more. Created a dynamic grid along with the function to change color. Next I need to implement a refresh button, and possible a grander color changer.
