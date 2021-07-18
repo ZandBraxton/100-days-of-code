@@ -216,3 +216,10 @@
 **Today's Progress**: Started the Etch-a-sketch project
 
 **Thoughts:** Worked more with grid which was cool, understanding how it works a lot more. Created a dynamic grid along with the function to change color. Next I need to implement a refresh button, and possible a grander color changer.
+
+
+### Day 31: July 18, 2021
+
+**Today's Progress**: Finished Etch-a-Sketch
+
+**Thoughts:** Implemented the ability to change grid size. When I finished it, it was very barebones. After looking at a few examples from other students, I was able to spice mine up further while only using my own knowledge to do so. I could add more, such as different colors and functions. For now I'm satisfied
