@@ -223,3 +223,11 @@
 **Today's Progress**: Finished Etch-a-Sketch
 
 **Thoughts:** Implemented the ability to change grid size. When I finished it, it was very barebones. After looking at a few examples from other students, I was able to spice mine up further while only using my own knowledge to do so. I could add more, such as different colors and functions. For now I'm satisfied
+
+
+
+### Day 32: July 19, 2021
+
+**Today's Progress**: Learned about JS objects, did various array exercises and learned about array-specific functions such as map, sort, find, reduce. Also completed two JS exercises, calculator and palindromes
+
+**Thoughts:** JS objects were incredibly similar to Python disctionaries, so that knowledge made my understanding of it increasingly easier. The array exercises were all easy except for reduce, but I feel better about it now. Calculator was simplistic, palindromes I completed but I know it could be much more optimal.
