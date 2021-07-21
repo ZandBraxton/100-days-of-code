@@ -236,3 +236,10 @@
 **Today's Progress**: Finished Js exercises.
 
 **Thoughts:** Short session, I've got a much better grasp on JS syntax now. Tomorrow I start on the big calculator project
+
+
+### Day 34: July 21, 2021
+
+**Today's Progress**: Started Calculator project
+
+**Thoughts:** The ability to use Grid suddenly clicked with me as I easily created the calculators format, the css was really easy too. I got majority of the functionality down but I feel like there's plenty of room for improvement.
