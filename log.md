@@ -243,3 +243,10 @@
 **Today's Progress**: Started Calculator project
 
 **Thoughts:** The ability to use Grid suddenly clicked with me as I easily created the calculators format, the css was really easy too. I got majority of the functionality down but I feel like there's plenty of room for improvement.
+
+
+### Day 35: July 22, 2021
+
+**Today's Progress**: Worked on calculator 
+
+**Thoughts:** Spent the entire time bug fixing. Clear wasn't functioning right but I think I got it sorted. Also the operators functioned weird if you used them back-to-back without selecting a new value each time. Also believe to have fixed them. Still need to fix decimals, percent, number limiter, add backspace, and add keyboard functionality 
