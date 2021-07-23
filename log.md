@@ -250,3 +250,10 @@
 **Today's Progress**: Worked on calculator 
 
 **Thoughts:** Spent the entire time bug fixing. Clear wasn't functioning right but I think I got it sorted. Also the operators functioned weird if you used them back-to-back without selecting a new value each time. Also believe to have fixed them. Still need to fix decimals, percent, number limiter, add backspace, and add keyboard functionality 
+
+
+### Day 36: July 23, 2021
+
+**Today's Progress**: Worked on calculator, finished for now.
+
+**Thoughts:** Spent more time bugfixing. Not entirely satisified with it and believe it can be improved still, but I'll save that for another day. It's basic functions work just fine, although I'm sure I could improve the way I coded it as well. 
