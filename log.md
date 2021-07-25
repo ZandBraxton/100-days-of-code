@@ -257,3 +257,11 @@
 **Today's Progress**: Worked on calculator, finished for now.
 
 **Thoughts:** Spent more time bugfixing. Not entirely satisified with it and believe it can be improved still, but I'll save that for another day. It's basic functions work just fine, although I'm sure I could improve the way I coded it as well. 
+
+
+
+### Day 37: July 25, 2021
+
+**Today's Progress**: Started Fullstack JS, Javascript lessons. Learned about object prototypes and inheritance.
+
+**Thoughts:** Still slightly confusing, but I think I managed a good grasp on the concept.
