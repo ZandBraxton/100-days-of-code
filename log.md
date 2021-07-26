@@ -265,3 +265,10 @@
 **Today's Progress**: Started Fullstack JS, Javascript lessons. Learned about object prototypes and inheritance.
 
 **Thoughts:** Still slightly confusing, but I think I managed a good grasp on the concept.
+
+
+### Day 38: July 26, 2021
+
+**Today's Progress**: Started Library project
+
+**Thoughts:** Figured out how to make a responsive table entirely through js manipulating the DOM. Got more comfortable using objects as well.
