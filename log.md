@@ -272,3 +272,11 @@
 **Today's Progress**: Started Library project
 
 **Thoughts:** Figured out how to make a responsive table entirely through js manipulating the DOM. Got more comfortable using objects as well.
+
+
+
+### Day 39: July 27, 2021
+
+**Today's Progress**: Worked on Library project
+
+**Thoughts:** Feeling very comfortable manipulating the DOM. Created a few functions easily, now attempting to make the program more dynamic
