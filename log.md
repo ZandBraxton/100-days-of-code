@@ -280,3 +280,11 @@
 **Today's Progress**: Worked on Library project
 
 **Thoughts:** Feeling very comfortable manipulating the DOM. Created a few functions easily, now attempting to make the program more dynamic
+
+
+
+### Day 40: July 28, 2021
+
+**Today's Progress**: Worked on Library project
+
+**Thoughts:** Feeling very happy with my progress. Funcionality of the project so far is perfect, the code is clean with plenty of functions (but not too many). I managed to use JSON to store localstorage. Now I only need to add better CSS
