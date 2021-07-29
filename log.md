@@ -288,3 +288,12 @@
 **Today's Progress**: Worked on Library project
 
 **Thoughts:** Feeling very happy with my progress. Funcionality of the project so far is perfect, the code is clean with plenty of functions (but not too many). I managed to use JSON to store localstorage. Now I only need to add better CSS
+
+
+
+### Day 41: July 29, 2021
+
+**Today's Progress**: Worked on Library project
+
+**Thoughts:** Mostly worked on CSS, which I'm so much more comfortble with now. Need to upgrade the CSS of the actual book cells next
+
