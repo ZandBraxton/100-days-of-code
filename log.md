@@ -297,3 +297,10 @@
 
 **Thoughts:** Mostly worked on CSS, which I'm so much more comfortble with now. Need to upgrade the CSS of the actual book cells next
 
+
+
+### Day 42: July 30, 2021
+
+**Today's Progress**: Finished Library project
+
+**Thoughts:** Very satisfied with the final result!
