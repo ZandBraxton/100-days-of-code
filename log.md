@@ -304,3 +304,10 @@
 **Today's Progress**: Finished Library project
 
 **Thoughts:** Very satisfied with the final result!
+
+
+### Day 43: July 31, 2021
+
+**Today's Progress**: Learned about JS factory functions and modules
+
+**Thoughts:** Extremely confused about all of this, going to watch more tutorials and read more docs on the process because I don't quite get it. Have to start the tic-tac-toe project next which will make use of this knowledge as well
