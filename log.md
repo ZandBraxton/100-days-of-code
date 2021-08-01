@@ -311,3 +311,10 @@
 **Today's Progress**: Learned about JS factory functions and modules
 
 **Thoughts:** Extremely confused about all of this, going to watch more tutorials and read more docs on the process because I don't quite get it. Have to start the tic-tac-toe project next which will make use of this knowledge as well
+
+
+### Day 44: July 31, 2021
+
+**Today's Progress**: Started tic-tac-toe
+
+**Thoughts:** After watching the tutorials I'm much less confused on modules and factories. However, tic-tac-toe is proving to be very difficult for me and I'm struggling hard. 
