@@ -313,15 +313,22 @@
 **Thoughts:** Extremely confused about all of this, going to watch more tutorials and read more docs on the process because I don't quite get it. Have to start the tic-tac-toe project next which will make use of this knowledge as well
 
 
-### Day 44: July 31, 2021
+### Day 44: August 1st, 2021
 
 **Today's Progress**: Started tic-tac-toe
 
 **Thoughts:** After watching the tutorials I'm much less confused on modules and factories. However, tic-tac-toe is proving to be very difficult for me and I'm struggling hard. 
 
 
-### Day 45: August 1, 2021
+### Day 45: August 2, 2021
 
 **Today's Progress**: Worked on tic-tac-toe
 
 **Thoughts:** Extremely short day, didn't get to do much. But I have a better understanding on modules
+
+
+### Day 46: August 3, 2021
+
+**Today's Progress**: Worked on tic-tac-toe
+
+**Thoughts:** Added some more functions, improved my modules, added style. so far so good
