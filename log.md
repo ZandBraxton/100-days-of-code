@@ -318,3 +318,10 @@
 **Today's Progress**: Started tic-tac-toe
 
 **Thoughts:** After watching the tutorials I'm much less confused on modules and factories. However, tic-tac-toe is proving to be very difficult for me and I'm struggling hard. 
+
+
+### Day 45: August 1, 2021
+
+**Today's Progress**: Worked on tic-tac-toe
+
+**Thoughts:** Extremely short day, didn't get to do much. But I have a better understanding on modules
