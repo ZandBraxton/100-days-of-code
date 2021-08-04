@@ -332,3 +332,11 @@
 **Today's Progress**: Worked on tic-tac-toe
 
 **Thoughts:** Added some more functions, improved my modules, added style. so far so good
+
+
+
+### Day 47: August 4, 2021
+
+**Today's Progress**: Finished tic-tac-toe
+
+**Thoughts:** Finalized it! Feeling pretty accomplished with my work, curious as to where I can go to have someone critique my code. 
