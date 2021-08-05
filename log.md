@@ -340,3 +340,10 @@
 **Today's Progress**: Finished tic-tac-toe
 
 **Thoughts:** Finalized it! Feeling pretty accomplished with my work, curious as to where I can go to have someone critique my code. 
+
+
+### Day 48: August 5, 2021
+
+**Today's Progress**: Learned about JS classes
+
+**Thoughts:** Pretty confusing at first but eventually I started to understand it, but as of now I don't really see much of a big use other than it just being syntax sugar
