@@ -347,3 +347,10 @@
 **Today's Progress**: Learned about JS classes
 
 **Thoughts:** Pretty confusing at first but eventually I started to understand it, but as of now I don't really see much of a big use other than it just being syntax sugar
+
+
+### Day 49: August 6, 2021
+
+**Today's Progress**: Learned about ES6 modules, NPM, and webpack
+
+**Thoughts:** A bit overwhelming but I grasp the concept, now I just need to really learn and utilize the aspects of it in practice
