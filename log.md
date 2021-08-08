@@ -354,3 +354,11 @@
 **Today's Progress**: Learned about ES6 modules, NPM, and webpack
 
 **Thoughts:** A bit overwhelming but I grasp the concept, now I just need to really learn and utilize the aspects of it in practice
+
+
+
+### Day 50: August 8, 2021
+
+**Today's Progress**: Continued to learn about webpack and making servers with it
+
+**Thoughts:** Starting to understand NPM and webpack a lot more, but it'll be a while before I'm really comfortable with it. Have to start the restaurant project now
