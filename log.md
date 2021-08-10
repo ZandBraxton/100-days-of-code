@@ -362,3 +362,10 @@
 **Today's Progress**: Continued to learn about webpack and making servers with it
 
 **Thoughts:** Starting to understand NPM and webpack a lot more, but it'll be a while before I'm really comfortable with it. Have to start the restaurant project now
+
+
+### Day 51: August 9, 2021
+
+**Today's Progress**: Started on restaurant project
+
+**Thoughts:** exporting and importing is really confusing right now, mostly the concept of importing/exporting module syntax. 
