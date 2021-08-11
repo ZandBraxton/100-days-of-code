@@ -369,3 +369,11 @@
 **Today's Progress**: Started on restaurant project
 
 **Thoughts:** exporting and importing is really confusing right now, mostly the concept of importing/exporting module syntax. 
+
+
+
+### Day 52: August 11, 2021
+
+**Today's Progress**: Continued restaurant project
+
+**Thoughts:** Mostly worked on css, so far so good. Learned about z-index and got more familar with relative and absolute positioning
