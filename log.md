@@ -377,3 +377,11 @@
 **Today's Progress**: Continued restaurant project
 
 **Thoughts:** Mostly worked on css, so far so good. Learned about z-index and got more familar with relative and absolute positioning
+
+
+
+### Day 53: August 12, 2021
+
+**Today's Progress**: Continued restaurant project
+
+**Thoughts:** Worked more on CSS but also created the switching tab function and the load page function. I got better with my transitions and how to apply it to removing a DOM element. Feeling good!
