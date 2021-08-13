@@ -385,3 +385,10 @@
 **Today's Progress**: Continued restaurant project
 
 **Thoughts:** Worked more on CSS but also created the switching tab function and the load page function. I got better with my transitions and how to apply it to removing a DOM element. Feeling good!
+
+
+### Day 54: August 13, 2021
+
+**Today's Progress**: Continued restaurant project
+
+**Thoughts:** Finished the menu page and it looks really clean. Used CSS grid pretty easily to do it too.
