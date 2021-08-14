@@ -392,3 +392,10 @@
 **Today's Progress**: Continued restaurant project
 
 **Thoughts:** Finished the menu page and it looks really clean. Used CSS grid pretty easily to do it too.
+
+
+### Day 55: August 14, 2021
+
+**Today's Progress**: Finished restaurant project
+
+**Thoughts:** Finished the contact page and cleaned up the code, really satisified with the final project.
