@@ -399,3 +399,10 @@
 **Today's Progress**: Finished restaurant project
 
 **Thoughts:** Finished the contact page and cleaned up the code, really satisified with the final project.
+
+
+### Day 56: August 16, 2021
+
+**Today's Progress**: Started todo list
+
+**Thoughts:** Feeling a lot faster and comfortable with starting projects. Such as installing with npm, setting everything up, basic html and css. Things like that
