@@ -406,3 +406,10 @@
 **Today's Progress**: Started todo list
 
 **Thoughts:** Feeling a lot faster and comfortable with starting projects. Such as installing with npm, setting everything up, basic html and css. Things like that
+
+
+### Day 57: August 17, 2021
+
+**Today's Progress**: Worked on todo list
+
+**Thoughts:** Made the tab switching logic in a snap, now working on the add task logic. Taking notes from my library project
