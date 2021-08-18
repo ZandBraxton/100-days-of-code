@@ -413,3 +413,10 @@
 **Today's Progress**: Worked on todo list
 
 **Thoughts:** Made the tab switching logic in a snap, now working on the add task logic. Taking notes from my library project
+
+
+### Day 58: August 18, 2021
+
+**Today's Progress**: Worked on todo list
+
+**Thoughts:** Short day. Made a functioning form that runs through a constructor to make a task, debating now how I want to store each task.
