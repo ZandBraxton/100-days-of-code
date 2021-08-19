@@ -420,3 +420,10 @@
 **Today's Progress**: Worked on todo list
 
 **Thoughts:** Short day. Made a functioning form that runs through a constructor to make a task, debating now how I want to store each task.
+
+
+### Day 59: August 19, 2021
+
+**Today's Progress**: Worked on todo list
+
+**Thoughts:** Changed my mind on how to separate modules, so I deleted some of the pages I had. Struggling to grasp the most effcient way to go about this, but I'm making progress. Hopefully it turns out well
