@@ -427,3 +427,11 @@
 **Today's Progress**: Worked on todo list
 
 **Thoughts:** Changed my mind on how to separate modules, so I deleted some of the pages I had. Struggling to grasp the most effcient way to go about this, but I'm making progress. Hopefully it turns out well
+
+
+
+### Day 60: August 20, 2021
+
+**Today's Progress**: Worked on todo list
+
+**Thoughts:** Had a bit of a breakthrough understanding how class methods work, had an easier time implementing delete and checkoff functions. Made a simple sort function to sort tasks by priority
