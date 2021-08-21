@@ -435,3 +435,11 @@
 **Today's Progress**: Worked on todo list
 
 **Thoughts:** Had a bit of a breakthrough understanding how class methods work, had an easier time implementing delete and checkoff functions. Made a simple sort function to sort tasks by priority
+
+
+
+### Day 61: August 21, 2021
+
+**Today's Progress**: Worked on todo list
+
+**Thoughts:** Another short day but a good one. Learned more about local storage and how it works. Realized that objects get stored as strings, so you have to construct their behavior again when restoring them. Valuable lessons learned
