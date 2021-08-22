@@ -443,3 +443,10 @@
 **Today's Progress**: Worked on todo list
 
 **Thoughts:** Another short day but a good one. Learned more about local storage and how it works. Realized that objects get stored as strings, so you have to construct their behavior again when restoring them. Valuable lessons learned
+
+
+### Day 62: August 22, 2021
+
+**Today's Progress**: Worked on todo list
+
+**Thoughts:** Improved the checklist function and tidied the code some more by moving functions to their appropriate modules. Started working on projects
