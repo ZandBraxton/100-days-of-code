@@ -450,3 +450,10 @@
 **Today's Progress**: Worked on todo list
 
 **Thoughts:** Improved the checklist function and tidied the code some more by moving functions to their appropriate modules. Started working on projects
+
+
+### Day 63: August 23, 2021
+
+**Today's Progress**: Worked on todo list
+
+**Thoughts:** Addded the ability to save tasks into projects and delete projects.
