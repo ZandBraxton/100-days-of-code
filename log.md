@@ -457,3 +457,10 @@
 **Today's Progress**: Worked on todo list
 
 **Thoughts:** Addded the ability to save tasks into projects and delete projects.
+
+
+### Day 64: August 24, 2021
+
+**Today's Progress**: Worked on todo list
+
+**Thoughts:** Added edit function, implemented foundation for kabob menu. I'm closing in now on the functions and then can finally start on the css. So far so good!
