@@ -464,3 +464,10 @@
 **Today's Progress**: Worked on todo list
 
 **Thoughts:** Added edit function, implemented foundation for kabob menu. I'm closing in now on the functions and then can finally start on the css. So far so good!
+
+
+### Day 65: August 25, 2021
+
+**Today's Progress**: Worked on todo list
+
+**Thoughts:** Added edit project functions, added notes function, made the app logic flow nicer
