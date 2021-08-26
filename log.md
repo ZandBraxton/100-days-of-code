@@ -471,3 +471,10 @@
 **Today's Progress**: Worked on todo list
 
 **Thoughts:** Added edit project functions, added notes function, made the app logic flow nicer
+
+
+### Day 66: August 26, 2021
+
+**Today's Progress**: Worked on todo list
+
+**Thoughts:** Started on CSS finally. Gave some icons to the main projects, then spent hours struggling with making dynamic dropdowns and absolute positioning. However, I think I understood at the very end what I need to do
