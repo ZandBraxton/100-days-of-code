@@ -478,3 +478,10 @@
 **Today's Progress**: Worked on todo list
 
 **Thoughts:** Started on CSS finally. Gave some icons to the main projects, then spent hours struggling with making dynamic dropdowns and absolute positioning. However, I think I understood at the very end what I need to do
+
+
+### Day 67: August 27, 2021
+
+**Today's Progress**: Worked on todo list
+
+**Thoughts:** Happy with the dropdowns for now but could still improve it. However, I'm steadily becoming more familar with positioning, and getting more comfortable with em/rem measurements. 
