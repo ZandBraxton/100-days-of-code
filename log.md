@@ -485,3 +485,10 @@
 **Today's Progress**: Worked on todo list
 
 **Thoughts:** Happy with the dropdowns for now but could still improve it. However, I'm steadily becoming more familar with positioning, and getting more comfortable with em/rem measurements. 
+
+
+### Day 68: August 28, 2021
+
+**Today's Progress**: Worked on todo list
+
+**Thoughts:** Started on main design for the list, pretty happy with it so far. Fixed a few bugs and improved flow of logic a bit
