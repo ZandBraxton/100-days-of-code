@@ -492,3 +492,10 @@
 **Today's Progress**: Worked on todo list
 
 **Thoughts:** Started on main design for the list, pretty happy with it so far. Fixed a few bugs and improved flow of logic a bit
+
+
+### Day 69: August 30, 2021
+
+**Today's Progress**: Worked on todo list
+
+**Thoughts:** Continued to update design, finished counters for tasks. Need to finish the display for notes and add final touches
