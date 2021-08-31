@@ -499,3 +499,11 @@
 **Today's Progress**: Worked on todo list
 
 **Thoughts:** Continued to update design, finished counters for tasks. Need to finish the display for notes and add final touches
+
+
+
+### Day 70: August 31, 2021
+
+**Today's Progress**: Worked on todo list
+
+**Thoughts:** Finished display for notes, believe my logic is sound. I can optimize it further, but right now the goal is to just make it work well enough. Will add final design next.
