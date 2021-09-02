@@ -507,3 +507,11 @@
 **Today's Progress**: Worked on todo list
 
 **Thoughts:** Finished display for notes, believe my logic is sound. I can optimize it further, but right now the goal is to just make it work well enough. Will add final design next.
+
+
+
+### Day 71: September 2, 2021
+
+**Today's Progress**: Finished todo list
+
+**Thoughts:** Finalized and deployed. The code can be optimized further but I'm happy to see that it works soundly. Once I get more tools under my belt I might revamp it to be way better
