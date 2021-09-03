@@ -515,3 +515,11 @@
 **Today's Progress**: Finished todo list
 
 **Thoughts:** Finalized and deployed. The code can be optimized further but I'm happy to see that it works soundly. Once I get more tools under my belt I might revamp it to be way better
+
+
+
+### Day 72: September 3, 2021
+
+**Today's Progress**: Learned about linting, made an image carousel, installed VScode extensions
+
+**Thoughts:** Was able to make the carousel pretty simply. Linting is cool and so are the extensions I installed, but I'm not sure if they're all active as is or if I need to make that happen. 
