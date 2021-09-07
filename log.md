@@ -523,3 +523,11 @@
 **Today's Progress**: Learned about linting, made an image carousel, installed VScode extensions
 
 **Thoughts:** Was able to make the carousel pretty simply. Linting is cool and so are the extensions I installed, but I'm not sure if they're all active as is or if I need to make that happen. 
+
+
+
+### Day 73: September 7, 2021
+
+**Today's Progress**: Learned about validity in forms and toyed with it, learned about ES2015/ECMA stuff. Learned a bit more on JSON and how to call it from a url. Started learning about Async
+
+**Thoughts:** Been feeling burnt out but I'm going to keep pushing. So far so good on what I learned, Async looks like it'll be tough to get a grip on but gotta get into it and find out.
