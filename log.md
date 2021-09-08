@@ -531,3 +531,10 @@
 **Today's Progress**: Learned about validity in forms and toyed with it, learned about ES2015/ECMA stuff. Learned a bit more on JSON and how to call it from a url. Started learning about Async
 
 **Thoughts:** Been feeling burnt out but I'm going to keep pushing. So far so good on what I learned, Async looks like it'll be tough to get a grip on but gotta get into it and find out.
+
+
+### Day 74: September 8, 2021
+
+**Today's Progress**: Learned about async, callbacks and callback hell. Learned briefly about promises, but tomorrow will dive into a much deeper explanation and breakdown on them
+
+**Thoughts:** The concepts so far have been easy enough to grasp, asycn and callbacks (since I've been using callbacks anyway). I understand the concept of promises as well, but it'll take some time for me to familiarize myself with the syntax
