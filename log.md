@@ -538,3 +538,10 @@
 **Today's Progress**: Learned about async, callbacks and callback hell. Learned briefly about promises, but tomorrow will dive into a much deeper explanation and breakdown on them
 
 **Thoughts:** The concepts so far have been easy enough to grasp, asycn and callbacks (since I've been using callbacks anyway). I understand the concept of promises as well, but it'll take some time for me to familiarize myself with the syntax
+
+
+### Day 75: September 9, 2021
+
+**Today's Progress**: Read a huge breakdown on promises
+
+**Thoughts:** That was a LOT to take in. I learned more than enough about promises. The actual implementation of them is still confusing, but I believe that's because I've yet to code one myself. However, the concepts of them make perfect sense
