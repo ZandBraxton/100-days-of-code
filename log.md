@@ -545,3 +545,10 @@
 **Today's Progress**: Read a huge breakdown on promises
 
 **Thoughts:** That was a LOT to take in. I learned more than enough about promises. The actual implementation of them is still confusing, but I believe that's because I've yet to code one myself. However, the concepts of them make perfect sense
+
+
+### Day 76: September 10, 2021
+
+**Today's Progress**: Learned about API's, async/await syntax
+
+**Thoughts:** async/await syntax seems right up my alley, but I need to use promise syntax too so I get comfortable with it. API's are really cool and clear up a lot about how a lot of websites I've seen filter data ands return it to the user
