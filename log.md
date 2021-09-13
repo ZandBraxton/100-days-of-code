@@ -552,3 +552,10 @@
 **Today's Progress**: Learned about API's, async/await syntax
 
 **Thoughts:** async/await syntax seems right up my alley, but I need to use promise syntax too so I get comfortable with it. API's are really cool and clear up a lot about how a lot of websites I've seen filter data ands return it to the user
+
+
+### Day 77: September 13, 2021
+
+**Today's Progress**: Started weather project
+
+**Thoughts:** I've gotten faster at using webpack and npm to start projects. Gathering the data from the api was easy enough so far, now working on displaying the information
