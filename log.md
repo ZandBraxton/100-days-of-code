@@ -559,3 +559,10 @@
 **Today's Progress**: Started weather project
 
 **Thoughts:** I've gotten faster at using webpack and npm to start projects. Gathering the data from the api was easy enough so far, now working on displaying the information
+
+
+### Day 78: September 14, 2021
+
+**Today's Progress**: Collected more data, started on some design
+
+**Thoughts:** Collecting the data was pretty simplistic, I've now begun on style which also feels like it will be pretty simple
