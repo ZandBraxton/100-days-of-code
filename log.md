@@ -563,6 +563,13 @@
 
 ### Day 78: September 14, 2021
 
-**Today's Progress**: Collected more data, started on some design
+**Today's Progress**: Continued weather project. Collected more data, started on some design
 
 **Thoughts:** Collecting the data was pretty simplistic, I've now begun on style which also feels like it will be pretty simple
+
+
+### Day 79: September 16, 2021
+
+**Today's Progress**: Continued weather project
+
+**Thoughts:** Added function to change temp, added more design, added hourly forecast. So far all of the concepts are pretty simple
