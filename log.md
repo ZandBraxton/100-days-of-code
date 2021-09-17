@@ -573,3 +573,12 @@
 **Today's Progress**: Continued weather project
 
 **Thoughts:** Added function to change temp, added more design, added hourly forecast. So far all of the concepts are pretty simple
+
+
+
+### Day 80: September 17, 2021
+
+**Today's Progress**: Continued weather project
+
+**Thoughts:** Created a serparate module for rendering. Finished adding all data I believe. Now only need to work on style. Also copied a draggable scroll from stack overflow in true programmer fashion
+
