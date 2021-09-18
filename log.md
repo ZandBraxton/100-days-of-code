@@ -582,3 +582,11 @@
 
 **Thoughts:** Created a serparate module for rendering. Finished adding all data I believe. Now only need to work on style. Also copied a draggable scroll from stack overflow in true programmer fashion
 
+
+
+### Day 81: September 18, 2021
+
+**Today's Progress**: Finished weather project
+
+**Thoughts:** Really happy with the way it turned out! finished it faster than I thought
+
