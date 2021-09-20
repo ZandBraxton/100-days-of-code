@@ -590,3 +590,10 @@
 
 **Thoughts:** Really happy with the way it turned out! finished it faster than I thought
 
+
+### Day 82: September 20, 2021
+
+**Today's Progress**: Started learning about test runners
+
+**Thoughts:** Watched some lectures and videos on it, have a pretty fair understanding of the concepts. Going to use them in practicd next
+
