@@ -597,3 +597,11 @@
 
 **Thoughts:** Watched some lectures and videos on it, have a pretty fair understanding of the concepts. Going to use them in practicd next
 
+
+
+### Day 83: September 21, 2021
+
+**Today's Progress**: Learned more about test runners, played around with Jest, learned about mocking
+
+**Thoughts:** Have a decent understanding on testing now, going to get more experience with the next project. Battleship
+
