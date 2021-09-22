@@ -605,3 +605,9 @@
 
 **Thoughts:** Have a decent understanding on testing now, going to get more experience with the next project. Battleship
 
+
+### Day 84: September 22, 2021
+
+**Today's Progress**: Started on battleship project
+
+**Thoughts:** Wrapping my head around testing first is pretty difficult, and I'mn pretty unfamilar with Jest still. Hoping to get more familar as time goes on
