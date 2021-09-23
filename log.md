@@ -611,3 +611,10 @@
 **Today's Progress**: Started on battleship project
 
 **Thoughts:** Wrapping my head around testing first is pretty difficult, and I'mn pretty unfamilar with Jest still. Hoping to get more familar as time goes on
+
+
+### Day 85: September 23, 2021
+
+**Today's Progress**: Worked on battleship project
+
+**Thoughts:** As of now I find tests very annoying and confusing. This project is also quite tough for me to wrap my head around and I'm hoping I don't struggle too much. Today I only created some factories, functions, and struggled with the test runner
