@@ -618,3 +618,11 @@
 **Today's Progress**: Worked on battleship project
 
 **Thoughts:** As of now I find tests very annoying and confusing. This project is also quite tough for me to wrap my head around and I'm hoping I don't struggle too much. Today I only created some factories, functions, and struggled with the test runner
+
+
+
+### Day 86: September 24, 2021
+
+**Today's Progress**: Worked on battleship project
+
+**Thoughts:** Tests are still annoying but I had a bit of a breakthrough with them. Started working on the dom now
