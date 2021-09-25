@@ -626,3 +626,10 @@
 **Today's Progress**: Worked on battleship project
 
 **Thoughts:** Tests are still annoying but I had a bit of a breakthrough with them. Started working on the dom now
+
+
+### Day 87: September 25, 2021
+
+**Today's Progress**: Worked on battleship project
+
+**Thoughts:** I'm starting to see the light more with tests, I feel like the logic of my code is really sound so far.
