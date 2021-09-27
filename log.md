@@ -633,3 +633,10 @@
 **Today's Progress**: Worked on battleship project
 
 **Thoughts:** I'm starting to see the light more with tests, I feel like the logic of my code is really sound so far.
+
+
+### Day 88: September 27, 2021
+
+**Today's Progress**: Worked on battleship project
+
+**Thoughts:** Having a really tough time wrapping my head around the logic. Felt like I hit a big wall today, but managed to chip away at it some. I _think_ my logic is still sound enough.
