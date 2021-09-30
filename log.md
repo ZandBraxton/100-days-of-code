@@ -640,3 +640,10 @@
 **Today's Progress**: Worked on battleship project
 
 **Thoughts:** Having a really tough time wrapping my head around the logic. Felt like I hit a big wall today, but managed to chip away at it some. I _think_ my logic is still sound enough.
+
+
+### Day 89: September 30, 2021
+
+**Today's Progress**: Worked on battleship project
+
+**Thoughts:** Slow and steady progress. Currently need to work on collision checking (which feels like tha hardest part to me)
