@@ -647,3 +647,11 @@
 **Today's Progress**: Worked on battleship project
 
 **Thoughts:** Slow and steady progress. Currently need to work on collision checking (which feels like tha hardest part to me)
+
+
+
+### Day 90: October 1, 2021
+
+**Today's Progress**: Worked on battleship project
+
+**Thoughts:** managed to implement the collision checking! Also made the enemy ship placement random. Started on hover when placing ships, need to start design soon
