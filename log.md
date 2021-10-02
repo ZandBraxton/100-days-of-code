@@ -655,3 +655,10 @@
 **Today's Progress**: Worked on battleship project
 
 **Thoughts:** managed to implement the collision checking! Also made the enemy ship placement random. Started on hover when placing ships, need to start design soon
+
+
+### Day 91: October 2, 2021
+
+**Today's Progress**: Worked on battleship project
+
+**Thoughts:** nearing the finish line. Started implementing design, game functions all work good. Had frustrating issues getting img assets to work, but figured it out in the end.
