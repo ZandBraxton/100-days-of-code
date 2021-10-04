@@ -662,3 +662,10 @@
 **Today's Progress**: Worked on battleship project
 
 **Thoughts:** nearing the finish line. Started implementing design, game functions all work good. Had frustrating issues getting img assets to work, but figured it out in the end.
+
+
+### Day 92: October 4, 2021
+
+**Today's Progress**: Finished on battleship project
+
+**Thoughts:** Completed! That was really tough to wrap my head around, but I feel accomplished in what I did. I felt like my logic stayed sound and continued on a straight track without getting diverted much. Learned some new aspects about design and syntax as well. Now onto React!
