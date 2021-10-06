@@ -669,3 +669,10 @@
 **Today's Progress**: Finished on battleship project
 
 **Thoughts:** Completed! That was really tough to wrap my head around, but I feel accomplished in what I did. I felt like my logic stayed sound and continued on a straight track without getting diverted much. Learned some new aspects about design and syntax as well. Now onto React!
+
+
+### Day 93: October 6, 2021
+
+**Today's Progress**: Started learning react
+
+**Thoughts:** It's so cool
