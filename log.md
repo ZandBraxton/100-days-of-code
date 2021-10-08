@@ -676,3 +676,10 @@
 **Today's Progress**: Started learning react
 
 **Thoughts:** It's so cool
+
+
+### Day 94: October 8, 2021
+
+**Today's Progress**: Continued learning react
+
+**Thoughts:** Dived deeper into states, props, components, etc. It's pretty difficult to wrap my head around, but It's only the second day
