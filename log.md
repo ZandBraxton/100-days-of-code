@@ -678,8 +678,8 @@
 **Thoughts:** It's so cool
 
 
-### Day 94: October 8, 2021
+### Day 94: October 9, 2021
 
-**Today's Progress**: Continued learning react
+**Today's Progress**: Started on cv-project
 
-**Thoughts:** Dived deeper into states, props, components, etc. It's pretty difficult to wrap my head around, but It's only the second day
+**Thoughts:** React is a whole new beast to tame, I'm feeling overwhelmed on grasping it but little by little I'm making progress. States and props are starting to make more sense to me, and the general flow of data from parent to child
