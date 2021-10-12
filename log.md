@@ -685,8 +685,15 @@
 **Thoughts:** React is a whole new beast to tame, I'm feeling overwhelmed on grasping it but little by little I'm making progress. States and props are starting to make more sense to me, and the general flow of data from parent to child
 
 
-### Day 95: October 10, 2021
+### Day 95: October 11, 2021
 
-**Today's Progress**: Started on cv-project
+**Today's Progress**: Worked on cv-project
 
 **Thoughts:** Document flow is data travels down and actions travel up, trying to instill that in my code. Figured out how to event handle more but struggling on when to apply what. Furthermore, unsure of how I'm supposed to remove and re-render elements 
+
+
+### Day 96: October 12, 2021
+
+**Today's Progress**: Worked on cv-project
+
+**Thoughts:** I HAD A BREAKTHROUGH! Everything started to click, I feel so much more comfortable with state and props. The flow of code, everything. SUPER HAPPY
