@@ -697,3 +697,11 @@
 **Today's Progress**: Worked on cv-project
 
 **Thoughts:** I HAD A BREAKTHROUGH! Everything started to click, I feel so much more comfortable with state and props. The flow of code, everything. SUPER HAPPY
+
+
+
+### Day 97: October 13, 2021
+
+**Today's Progress**: Worked on cv-project
+
+**Thoughts:** Started working on styling, need to figure out how to create and add to dom dynamically
