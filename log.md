@@ -699,9 +699,15 @@
 **Thoughts:** I HAD A BREAKTHROUGH! Everything started to click, I feel so much more comfortable with state and props. The flow of code, everything. SUPER HAPPY
 
 
-
 ### Day 97: October 13, 2021
 
 **Today's Progress**: Worked on cv-project
 
 **Thoughts:** Started working on styling, need to figure out how to create and add to dom dynamically
+
+
+### Day 98: October 14, 2021
+
+**Today's Progress**: Worked on cv-project
+
+**Thoughts:** Added logic for education and experience section. Figured out how to dynamically create more dom stuff with react by creating arrays and pushing them dynamically. Need to add unique id's still and also figure out how to delete stuff.
