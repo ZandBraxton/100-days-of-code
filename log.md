@@ -711,3 +711,13 @@
 **Today's Progress**: Worked on cv-project
 
 **Thoughts:** Added logic for education and experience section. Figured out how to dynamically create more dom stuff with react by creating arrays and pushing them dynamically. Need to add unique id's still and also figure out how to delete stuff.
+
+
+
+### Day 99: October 14, 2021
+
+**Today's Progress**: (likely) finished cv project
+
+**Thoughts:** My logic is sound and it can be improved slightly (specifically how I stored the general info). Style is what I would really improve on but for now I don't have an interest in doing so and would rather move onto the next thing.
+
+100 days already since I started TOP. I've come a long way and have learned various skills and knowledge that I had none of before, feeling good and will continue to strive for more.
