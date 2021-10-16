@@ -714,10 +714,18 @@
 
 
 
-### Day 99: October 14, 2021
+### Day 99: October 15, 2021
 
 **Today's Progress**: (likely) finished cv project
 
 **Thoughts:** My logic is sound and it can be improved slightly (specifically how I stored the general info). Style is what I would really improve on but for now I don't have an interest in doing so and would rather move onto the next thing.
 
 100 days already since I started TOP. I've come a long way and have learned various skills and knowledge that I had none of before, feeling good and will continue to strive for more.
+
+
+
+### Day 100: October 16, 2021
+
+**Today's Progress**: Learned about Hooks, started transitioning cv-project to be hooks based
+
+**Thoughts:** Hooks are game changing, taking the flow of logic I'm most comfortable with and combining it with react is immensely powerful. Started changing my cv-project to be hooks based and the logic flowed so naturally.
