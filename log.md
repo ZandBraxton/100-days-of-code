@@ -729,3 +729,10 @@
 **Today's Progress**: Learned about Hooks, started transitioning cv-project to be hooks based
 
 **Thoughts:** Hooks are game changing, taking the flow of logic I'm most comfortable with and combining it with react is immensely powerful. Started changing my cv-project to be hooks based and the logic flowed so naturally.
+
+
+### Day 101: October 22, 2021
+
+**Today's Progress**: Finished turning cv-project to be hook based
+
+**Thoughts:** Had a lot of trouble figuring out how to pass data and functions between hook based components, eventually solved it but still a bit shaky on the logic.
