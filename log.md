@@ -736,3 +736,10 @@
 **Today's Progress**: Finished turning cv-project to be hook based
 
 **Thoughts:** Had a lot of trouble figuring out how to pass data and functions between hook based components, eventually solved it but still a bit shaky on the logic.
+
+
+### Day 102: October 23, 2021
+
+**Today's Progress**: Started memory game
+
+**Thoughts:** Was overcomplicating things, need to work on downsizing the problem and really understanding what I'm trying to make before I make it
