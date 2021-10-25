@@ -743,3 +743,10 @@
 **Today's Progress**: Started memory game
 
 **Thoughts:** Was overcomplicating things, need to work on downsizing the problem and really understanding what I'm trying to make before I make it
+
+
+### Day 103: October 25, 2021
+
+**Today's Progress**: Continued memory game
+
+**Thoughts:** Starting to understand much clearer how using custom hooks, sending data and all of that goes. Now i'm stuck on centering a div while keeping other divs off center
