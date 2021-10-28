@@ -750,3 +750,17 @@
 **Today's Progress**: Continued memory game
 
 **Thoughts:** Starting to understand much clearer how using custom hooks, sending data and all of that goes. Now i'm stuck on centering a div while keeping other divs off center
+
+
+### Day 104: October 26, 2021
+
+**Today's Progress**: Finished memory game
+
+**Thoughts:** Went a lot smoother than I expected, I understand a lot more about react and hooks now
+
+
+### Day 105: October 27, 2021
+
+**Today's Progress**: Started shopping cart project, switched developer enviroment to windows
+
+**Thoughts:** Set up my developer enviroment in windows, finding it a lot more comfortable than the ubuntu virtual desktop. Started on shopping cart project, have a good vision in mind already and find routing to be very simple.
