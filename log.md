@@ -764,3 +764,10 @@
 **Today's Progress**: Started shopping cart project, switched developer enviroment to windows
 
 **Thoughts:** Set up my developer enviroment in windows, finding it a lot more comfortable than the ubuntu virtual desktop. Started on shopping cart project, have a good vision in mind already and find routing to be very simple.
+
+
+### Day 107: Nov 1, 2021
+
+**Today's Progress**: Continued cart project
+
+**Thoughts:** Forgot to log the last couple of days, but slowly making progress. Got stuck trying to figure out how to change the value of a prop in an object inside of an array using set state with react hooks.
