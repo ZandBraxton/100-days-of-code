@@ -771,3 +771,12 @@
 **Today's Progress**: Continued cart project
 
 **Thoughts:** Forgot to log the last couple of days, but slowly making progress. Got stuck trying to figure out how to change the value of a prop in an object inside of an array using set state with react hooks.
+
+
+
+
+### Day 108: Nov 1, 2021
+
+**Today's Progress**: Continued cart project
+
+**Thoughts:** Mostly figured out how to change the state, need to make a handle change function for in the cart. Learned about css spring and made a basic transition for opening the cart.
