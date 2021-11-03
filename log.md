@@ -774,9 +774,15 @@
 
 
 
-
-### Day 108: Nov 1, 2021
+### Day 108: Nov 2, 2021
 
 **Today's Progress**: Continued cart project
 
 **Thoughts:** Mostly figured out how to change the state, need to make a handle change function for in the cart. Learned about css spring and made a basic transition for opening the cart.
+
+
+### Day 109: Nov 3, 2021
+
+**Today's Progress**: Continued cart project
+
+**Thoughts:** Had a breakthrough in figuring out how to change objects in an array by using map(), believe i've finished all functionality and only need to work on style.
