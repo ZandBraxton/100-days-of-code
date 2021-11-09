@@ -786,3 +786,12 @@
 **Today's Progress**: Continued cart project
 
 **Thoughts:** Had a breakthrough in figuring out how to change objects in an array by using map(), believe i've finished all functionality and only need to work on style.
+
+
+
+
+### Day 112: Nov 9, 2021
+
+**Today's Progress**: Started where's waldo
+
+**Thoughts:** Been forgetting to log. Finished cart project the other day. Learned about firebase, started on where's waldo project
